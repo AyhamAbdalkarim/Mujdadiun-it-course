@@ -1,0 +1,17 @@
+Python Virtual Environments (venv)
+
+An isolated environment per project: own site-packages, avoids version clashes with other projects.
+
+Create (in project folder):
+  Windows:  python -m venv myenv
+  macOS/Linux: python3 -m venv myenv
+
+Activate:
+  Windows CMD:  myenv\Scripts\activate.bat
+  Windows PS:   myenv\Scripts\Activate.ps1
+  macOS/Linux:  source myenv/bin/activate
+
+Then install with pip (only into this env). Deactivate: deactivate
+Remove env: delete the folder (or rmdir /s /q on Windows, rm -rf on Unix).
+
+See also: https://www.w3schools.com/python/python_virtualenv.asp

@@ -1,0 +1,6 @@
+Python Casting (Type Conversion)
+
+Convert values with int(), float(), str(), bool() when the conversion is valid.
+Invalid conversions raise ValueError or TypeError.
+
+See also: https://www.w3schools.com/python/python_casting.asp

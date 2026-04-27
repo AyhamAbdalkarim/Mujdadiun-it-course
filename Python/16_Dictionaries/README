@@ -1,0 +1,6 @@
+Python Dictionaries
+
+Key-value mappings. Keys must be hashable (str, int, tuple of immutables, ...).
+Use dict(), {}, .keys(), .values(), .items(), .get(), .pop().
+
+See also: https://www.w3schools.com/python/python_dictionaries.asp

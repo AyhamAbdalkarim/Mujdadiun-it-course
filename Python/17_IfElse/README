@@ -1,0 +1,6 @@
+Python if / elif / else
+
+Run code conditionally. Indentation defines blocks. elif chains multiple tests.
+pass is a no-op placeholder. Nested if allowed.
+
+See also: https://www.w3schools.com/python/python_if_else.asp

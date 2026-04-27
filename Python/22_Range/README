@@ -1,0 +1,7 @@
+Python range
+
+range(stop) -> 0 .. stop-1
+range(start, stop[, step]) -> custom sequence
+Lazy iterable; use list(range(...)) to materialize.
+
+See also: https://www.w3schools.com/python/python_range.asp

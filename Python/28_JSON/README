@@ -1,0 +1,7 @@
+Python JSON
+
+json.loads(string) parses JSON text to Python objects.
+json.dumps(obj) serializes Python objects to JSON string.
+Common mapping: object->dict, array->list, string->str, number->int/float, true/false/null.
+
+See also: https://www.w3schools.com/python/python_json.asp

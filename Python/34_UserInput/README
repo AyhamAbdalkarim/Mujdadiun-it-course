@@ -1,0 +1,5 @@
+Python User Input
+
+input(prompt) reads one line as str. Convert with int(), float(), etc. as needed.
+
+See also: https://www.w3schools.com/python/python_user_input.asp

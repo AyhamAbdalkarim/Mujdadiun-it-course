@@ -1,0 +1,9 @@
+Python Operators
+
+Categories: arithmetic (+ - * / // % **), assignment (= += ...),
+comparison (== != < > <= >=), logical (and or not),
+identity (is, is not), membership (in, not in), bitwise (& | ^ ~ << >>).
+
+Operator precedence: parentheses first; ** before unary + -; then * / // %; then + -; etc.
+
+See also: https://www.w3schools.com/python/python_operators.asp

@@ -1,0 +1,12 @@
+Python Data Types
+
+Values in Python belong to a type. Built-in types include:
+- str — text
+- int, float, complex — numbers
+- bool — True or False
+- list, tuple, set, dict — collections
+- NoneType — the value None
+
+Use type(x) to inspect a value’s type.
+
+See also: https://www.w3schools.com/python/python_datatypes.asp

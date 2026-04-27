@@ -1,0 +1,8 @@
+Python match / case (Python 3.10+)
+
+Structural pattern matching: match value against patterns (literals, capture,
+sequences, mappings). Use | for alternatives. _ is a wildcard.
+
+If you use Python < 3.10, use if/elif chains instead.
+
+See also: https://www.w3schools.com/python/python_match.asp

@@ -1,0 +1,10 @@
+Python Arrays
+
+Python’s usual “array” for homework and scripts is the list: ordered, mutable.
+
+The array module (import array) stores compact numeric arrays (typecodes like 'i', 'f').
+For heavy numeric work, libraries like NumPy are common (separate tutorial).
+
+W3Schools introduces list-style operations under “Arrays”; practice with list.
+
+See also: https://www.w3schools.com/python/python_arrays.asp

@@ -1,0 +1,6 @@
+Python Tuples
+
+Ordered, immutable sequences. Use () or tuple(). Good for fixed records and
+multiple return values. One-item tuple needs a trailing comma: (1,).
+
+See also: https://www.w3schools.com/python/python_tuples.asp

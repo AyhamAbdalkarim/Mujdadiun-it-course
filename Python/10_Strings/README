@@ -1,0 +1,9 @@
+Python Strings
+
+Strings are sequences of characters. Use single or double quotes.
+Topics: indexing, slicing, len(), methods (strip, lower, upper, replace, split, ...),
+concatenation, f-strings / format(), escape sequences (\n, \t, \\, \", ...).
+
+Strings are immutable: methods return new strings.
+
+See also: https://www.w3schools.com/python/python_strings.asp

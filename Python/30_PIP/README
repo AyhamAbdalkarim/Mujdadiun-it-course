@@ -1,0 +1,13 @@
+Python PIP (package installer)
+
+pip installs packages from PyPI (https://pypi.org/).
+
+Common commands (run in terminal, with venv activated when possible):
+  python -m pip --version
+  python -m pip install package_name
+  python -m pip uninstall package_name
+  python -m pip list
+
+Prefer `python -m pip` so pip matches the same Python you run.
+
+See also: https://www.w3schools.com/python/python_pip.asp

@@ -1,0 +1,6 @@
+Python None
+
+None is a singleton meaning “no value”. Functions without return return None.
+Use `is None` / `is not None` (not ==) for checks.
+
+See also: https://www.w3schools.com/python/python_none.asp

@@ -1,0 +1,7 @@
+Python Regular Expressions (re)
+
+re.search, re.findall, re.sub, re.compile with pattern strings.
+Raw strings r"..." avoid backslash issues. Common patterns: \d digits, \w word chars, . any char,
+* + ? quantifiers, [] character class, () groups.
+
+See also: https://www.w3schools.com/python/python_regex.asp

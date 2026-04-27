@@ -1,0 +1,6 @@
+Python for Loops
+
+Iterate over sequences (str, list, tuple, set, dict keys, range, ...).
+Use enumerate() for index+value, zip() to pair iterables.
+
+See also: https://www.w3schools.com/python/python_for_loops.asp

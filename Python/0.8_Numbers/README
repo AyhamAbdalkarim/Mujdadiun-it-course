@@ -1,0 +1,7 @@
+Python Numbers
+
+Three numeric types: int (whole numbers), float (decimals), complex (real + imaginary).
+
+Arithmetic uses + - * / // % **. Division / always returns float in Python 3.
+
+See also: https://www.w3schools.com/python/python_numbers.asp

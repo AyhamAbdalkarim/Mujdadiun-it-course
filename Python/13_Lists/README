@@ -1,0 +1,6 @@
+Python Lists
+
+Ordered, mutable sequences. Use [], indexing, slicing, append, extend, insert,
+remove, pop, sort, copy, list comprehensions.
+
+See also: https://www.w3schools.com/python/python_lists.asp

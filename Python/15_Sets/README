@@ -1,0 +1,6 @@
+Python Sets
+
+Unordered collection of unique items. Use {} or set(). Supports union, intersection,
+difference, symmetric difference. frozenset is an immutable set.
+
+See also: https://www.w3schools.com/python/python_sets.asp

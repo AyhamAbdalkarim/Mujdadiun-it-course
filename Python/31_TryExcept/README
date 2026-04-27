@@ -1,0 +1,6 @@
+Python try / except / else / finally
+
+Handle errors without crashing. except catches Exception types; use specific types first.
+else runs if no exception; finally always runs (cleanup).
+
+See also: https://www.w3schools.com/python/python_try_except.asp

@@ -1,0 +1,41 @@
+Python course (topics aligned with W3Schools Python Tutorial through VirtualEnv)
+Official reference: https://www.w3schools.com/python/
+
+Study order (folder names):
+  0.1_Python Intro
+  0.2_Get Started
+  0.3_Syntax
+  0.4_output
+  0.5_Comments
+  0.6_variable
+  0.7_DataTypes
+  0.8_Numbers
+  0.9_Casting
+  10_Strings
+  11_Booleans
+  12_Operators
+  13_Lists
+  14_Tuples
+  15_Sets
+  16_Dictionaries
+  17_IfElse
+  18_Match
+  19_WhileLoops
+  20_ForLoops
+  21_Functions
+  22_Range
+  23_Arrays
+  24_Iterators
+  25_Modules
+  26_Dates
+  27_Math
+  28_JSON
+  29_RegEx
+  30_PIP
+  31_TryExcept
+  32_StringFormatting
+  33_None
+  34_UserInput
+  35_VirtualEnv
+
+Next in W3Schools after this point: Python Classes / OOP.

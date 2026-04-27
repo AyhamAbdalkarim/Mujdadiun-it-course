@@ -1,0 +1,6 @@
+Python while Loops
+
+Repeat while condition is True. Use break to exit early, continue to skip to next
+iteration. Beware infinite loops if the condition never becomes False.
+
+See also: https://www.w3schools.com/python/python_while_loops.asp

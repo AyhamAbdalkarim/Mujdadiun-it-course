@@ -1,0 +1,8 @@
+Python Iterators
+
+An iterator yields values one-by-one via __next__ until exhausted.
+iter(obj) gets an iterator from an iterable. for loops use this protocol.
+
+Generators (yield) are a concise way to build iterators.
+
+See also: https://www.w3schools.com/python/python_iterators.asp

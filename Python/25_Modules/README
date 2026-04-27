@@ -1,0 +1,10 @@
+Python Modules
+
+Split code into .py files. import module, from module import name, as aliases.
+Python searches sys.path for modules. __name__ is "__main__" when run as script.
+
+Run use_greeting.py from inside this folder so import greeting resolves:
+  cd 25_Modules
+  python use_greeting.py
+
+See also: https://www.w3schools.com/python/python_modules.asp

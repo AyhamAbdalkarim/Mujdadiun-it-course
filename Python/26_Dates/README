@@ -1,0 +1,6 @@
+Python Dates and Time
+
+datetime module: date, time, datetime, timedelta.
+strftime formats, strptime parses. For time zones, use zoneinfo (3.9+) or third-party libs.
+
+See also: https://www.w3schools.com/python/python_datetime.asp

@@ -1,0 +1,8 @@
+Python Booleans
+
+bool values: True and False (capitalized).
+Most values are "truthy" or "falsy" in boolean context (if, while, and, or).
+
+Falsy examples: False, None, 0, 0.0, "", [], {}, set().
+
+See also: https://www.w3schools.com/python/python_booleans.asp

@@ -1,0 +1,8 @@
+Python Functions
+
+Define with def name(args):. return sends a value back (None if omitted).
+Parameters: positional, default values, *args (extra positional), **kwargs (extra keywords).
+Scope: local names inside function; global and nonlocal adjust binding.
+lambda creates small anonymous functions. decorators wrap functions.
+
+See also: https://www.w3schools.com/python/python_functions.asp
