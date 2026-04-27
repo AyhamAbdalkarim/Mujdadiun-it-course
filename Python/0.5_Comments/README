@@ -1,0 +1,10 @@
+Python Comments
+
+- Single-line: everything after # on that line is ignored by Python.
+- Multi-line strings with triple quotes """ ... """ can be used as a docstring at the top of a file or function; if not assigned, they act like a string literal (often used for temporary comment blocks—prefer # for short notes).
+
+Comments explain intent for humans; they do not change how the program runs.
+
+See also: https://www.w3schools.com/python/python_comments.asp
+
+Next folder: 0.6_variable

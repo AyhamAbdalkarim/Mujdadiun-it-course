@@ -1,0 +1,12 @@
+Get Started
+
+- Save programs with the .py extension (for example hello.py).
+- Run from a terminal: python hello.py (or py hello.py on some Windows setups).
+- Check version: python --version
+- In the interactive REPL, exit with exit() or quit(), or Ctrl+Z then Enter (Windows) / Ctrl+D (macOS/Linux).
+
+First program: print("Hello, World!")
+
+See also: https://www.w3schools.com/python/python_getstarted.asp
+
+Next folder: 0.3_Syntax

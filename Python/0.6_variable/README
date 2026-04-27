@@ -1,0 +1,14 @@
+Python Variables
+
+- Names store references to values: x = 5
+- Python picks the type from the value (dynamic typing); you can reassign a new type to the same name.
+- Casting: str(), int(), float(), bool() when you need a specific type.
+- type(x) shows the type of a value.
+- Rules for names: letters, digits, underscore; cannot start with a digit; no spaces; case-sensitive.
+- Assign several at once: x, y, z = 1, 2, 3
+
+Global variables (module level) vs local (inside functions) is covered again in later lessons.
+
+See also: https://www.w3schools.com/python/python_variables.asp
+
+Next folder: 0.7_DataTypes

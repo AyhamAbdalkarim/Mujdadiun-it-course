@@ -1,0 +1,16 @@
+Python Syntax
+
+- After a colon (:), the next line must be indented (usually 4 spaces).
+- All lines in the same block use the same indentation.
+- One simple statement per line is normal; semicolons can chain statements but are rarely used.
+
+Common mistakes (these will cause IndentationError or SyntaxError if written as real code):
+- Forgetting to indent under if / for / def / class.
+- Mixing tabs and spaces.
+- Wrong indent level for a second line in the same block.
+
+Run syntax.py for valid examples. See statement.py for multiple prints on one line.
+
+See also: https://www.w3schools.com/python/python_syntax.asp
+
+Next folder: 0.4_output

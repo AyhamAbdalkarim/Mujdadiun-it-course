@@ -1,5 +1,6 @@
-x=5
-y= "Hello World"
+# Simple assignments (syntax). Full variable lesson: folder 0.6_variable
+x = 5
+y = "Hello World"
 
-#This is a comment.
-print("Hello, World!")
+print(x)
+print(y)

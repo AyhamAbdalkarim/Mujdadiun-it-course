@@ -1,6 +1,8 @@
 Python course (topics aligned with W3Schools Python Tutorial through VirtualEnv)
 Official reference: https://www.w3schools.com/python/
 
+Each numbered folder has a README (lesson notes) and .py examples where useful.
+
 Study order (folder names):
   0.1_Python Intro
   0.2_Get Started

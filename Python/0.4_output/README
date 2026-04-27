@@ -1,0 +1,12 @@
+Python Output (print)
+
+print() sends text and values to the console.
+
+- Strings: print("Hello")
+- Numbers: print(42)
+- Several values: print("Age:", 25) — print inserts spaces between items by default
+- Same line: use end=" " (or another string) so the next print continues on that line
+
+See also: https://www.w3schools.com/python/python_output.asp
+
+Next folder: 0.5_Comments

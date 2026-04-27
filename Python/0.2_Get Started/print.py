@@ -1,24 +1,13 @@
+# First output
 print("Hello, World!")
+print("Hello, my name is Ayham")
 
-print("Hello my name is ayham")
-
-#To check the Python version of the editor, you can find it by importing the sys module:
+# Python version (requires running: python print.py)
 import sys
 
 print(sys.version)
 
-#What is the correct file extension for Python files?
-# .pp
-# .pt
-# .py
-
-#What is a correct command line syntax for checking if python is installed on your computer? (And also to check the Python version)
-# python --version
-# python ##version
-# python version
-
-#What is a correct syntax to exit the Python command line interface?
-
-# exit()
-# stop()
-# end()
+# --- Quick checks (quiz answers in comments) ---
+# Correct file extension for Python files?  -> .py
+# Check Python from terminal?               -> python --version
+# Leave the interactive REPL?               -> exit()  (or quit())
